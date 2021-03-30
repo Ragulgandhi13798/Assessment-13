@@ -2,7 +2,7 @@ package javacollection;
 
 import java.util.ArrayList;
 
- class details {
+   class details {
 	 
     
 	int id;
